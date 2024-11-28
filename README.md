@@ -1,10 +1,40 @@
 # 💫 About Me:
-Here’s an updated version of your GitHub "About Me" README tailored to your background:<br><br>---<br><br>
-# Hi there, I'm Joseph Mbugua 👋<br><br>I'm a **Cybersecurity-Focused Software Engineer** working at **KEMSA** (Kenya Medical Supplies Authority). I specialize in **Digital Health Systems Development**, collaborating with a range of global partners to build scalable, secure, and impactful solutions that transform healthcare delivery.<br><br>### 🚀 What I Do:<br>- **Cybersecurity & Software Engineering**: Ensuring robust and secure healthcare systems through modern cybersecurity practices.<br>- **Digital Health Innovations**: Designed and implemented critical healthcare systems such as:<br>  - **KEMSA LMIS**: A comprehensive Logistics Management Information System.<br>  - **CEWAS**: The Commodity Early Warning and Alert System for healthcare supply chain optimization.<br>  - **Forecasting Modules**: Advanced analytics and prediction systems for diabetes, hypertension, and other lifestyle diseases.<br>  - **E-Signature Module**: Secure digital approvals for procurement processes.<br>- **Data Integration & Analytics**: Seamlessly integrated systems like **KHIS** and **DHIS2** for trend analysis and aggregate reporting.<br><br>### 🌍 Partnerships & Collaborations:<br>I’ve had the privilege of working with leading organizations in global health, including:<br>- **Digital Health Agency (DHA)**<br>- **Global Fund (GF)**<br>- **UNFPA**<br>- **PATH International**<br>- **CHAI**<br>- **WHO**<br>- **WFP**<br>- **UNICEF**<br><br>These collaborations have contributed to innovations in healthcare data reporting, supply chain strengthening, and service delivery.<br><br>### 🌟 Key Achievements:<br>- Reduced commodity wastage from **5% to less than 1%**.<br>- Improved order turnaround times from **30 days to 10 days**.<br>- Enhanced healthcare visibility through predictive analytics and trend reporting.<br><br>### 💡 Interests & Future Goals:<br>- **AI in Healthcare**: Exploring predictive analytics and AI-powered tools for healthcare system optimization.<br>- **Strengthening EMRs**: Enhancing Kenyan healthcare systems like **SPICE** and **KenyaEMR**.<br>- **Sustainable Systems**: Developing long-term solutions for healthcare supply chains and logistics.<br><br>
-# 📫 Let’s Connect:<br>- **Email**:  joe@digihut.net<br>- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)<br>- **GitHub**: You're already here! Explore my repositories to learn more about my work.<br>
+## Hi there, I'm Joseph Mbugua 👋<br>
+<br>I'm a **Cybersecurity-Focused Software Engineer** working at **KEMSA** (Kenya Medical Supplies Authority). I specialize in **Digital Health Systems Development**, collaborating with a range of global partners to build scalable, secure, and impactful solutions that transform healthcare delivery.<br><br>
+### 🚀 What I Do:<br>
+- **Cybersecurity & Software Engineering**: Ensuring robust and secure healthcare systems through modern cybersecurity practices.<br>
+- **Digital Health Innovations**: Designed and implemented critical healthcare systems such as:<br>
+- **KEMSA LMIS**: A comprehensive Logistics Management Information System.<br>
+- **CEWAS**: The Commodity Early Warning and Alert System for healthcare supply chain optimization.<br>
+- **Forecasting Modules**: Advanced analytics and prediction systems for diabetes, hypertension, and other lifestyle diseases.<br>
+- **E-Signature Module**: Secure digital approvals for procurement processes.<br>
+- **Data Integration & Analytics**: Seamlessly integrated systems like **KHIS** and **DHIS2** for trend analysis and aggregate reporting.<br><br>
+### 🌍 Partnerships & Collaborations:<br>
+I’ve had the privilege of working with leading organizations in global health, including:<br>
+- **Digital Health Agency (DHA)**<br>
+- **Global Fund (GF)**<br>
+- **UNFPA**<br>
+- **PATH International**<br>
+- **CHAI**<br>
+- **WHO**<br>
+- **WFP**<br>
+- **UNICEF**<br><br>
+These collaborations have contributed to innovations in healthcare data reporting, supply chain strengthening, and service delivery.<br><br>
+### 🌟 Key Achievements:<br>
+- Reduced commodity wastage from **5% to less than 1%**.<br>
+- Improved order turnaround times from **30 days to 10 days**.<br>
+- Enhanced healthcare visibility through predictive analytics and trend reporting.<br><br>
+### 💡 Interests & Future Goals:<br>
+- **AI in Healthcare**: Exploring predictive analytics and AI-powered tools for healthcare system optimization.<br>
+- **Strengthening EMRs**: Enhancing Kenyan healthcare systems like **SPICE** and **KenyaEMR**.<br>
+- **Sustainable Systems**: Developing long-term solutions for healthcare supply chains and logistics.<br><br>
+### 📫 Let’s Connect:<br>
+- **Email**:  joe@digihut.net<br>-
+- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)<br>
+- **GitHub**: You're already here! Explore my repositories to learn more about my work.<br>
 
 
-# 🌐 Socials:
+## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jkibasui) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/DigihutSystems) 
 
 # 💻 Tech Stack:
