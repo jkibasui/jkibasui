@@ -29,7 +29,7 @@ These collaborations have contributed to innovations in healthcare data reportin
 - **Strengthening EMRs**: Enhancing Kenyan healthcare systems like **SPICE** and **KenyaEMR**.<br>
 - **Sustainable Systems**: Developing long-term solutions for healthcare supply chains and logistics.<br><br>
 ### 📫 Let’s Connect:<br>
-- **Email**:  joe@digihut.net<br>-
+- **Email**:  joe@digihut.net<br>
 - **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)<br>
 - **GitHub**: You're already here! Explore my repositories to learn more about my work.<br>
 
